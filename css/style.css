@@ -1,33 +1,4 @@
-/*********************************************************
 
-    Template Name:  Robin - Personal Portfolio HTML Template
-    Author: MouriTheme
-    Version: 1.0
-    Design and Developed by: MouriTheme
-
-    NB: This is the main stylesheet of this theme.
-
-***********************************************************/
-
-/*Table of Content
-
-
-1. Default css
-2. Preloader Css
-3. Navigation area css
-4. Mouse animation css
-5. Banner area css
-6. About area css
-7. Services area css
-8. skills area css
-9. Portfolio area css
-10. Statistic area css
-11. Experience area css
-12. Testimonial area css
-13. Contact area css
-14. Footer area css
-
-*/
 
 
 /*===============================
@@ -380,7 +351,7 @@ img {
 
 
 .banner-area{
-    background-image: url(../images/home/background.jpg); /*--edit image--*/
+    background-image: url(../images/home/banner.jpg); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;

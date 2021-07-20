@@ -1186,3 +1186,13 @@ ul.port-nav-list li a.active {
 
 
 
+/*--------------- Additional custom css code -------------*/
+
+.single-port{
+    padding: 0 5px;
+}
+
+.contact-data{
+    display: flex;
+    justify-content: space-between;
+}

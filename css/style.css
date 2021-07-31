@@ -1196,3 +1196,11 @@ ul.port-nav-list li a.active {
     display: flex;
     justify-content: space-between;
 }
+
+
+@media only screen and (max-width: 600px) {
+    .contact-data{
+        flex-direction: column;
+    }
+    
+  }
